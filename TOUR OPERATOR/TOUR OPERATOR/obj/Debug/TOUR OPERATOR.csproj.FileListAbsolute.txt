@@ -1,0 +1,7 @@
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\bin\Debug\TOUR OPERATOR.exe.config
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\bin\Debug\TOUR OPERATOR.exe
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\bin\Debug\TOUR OPERATOR.pdb
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\obj\Debug\TOUR OPERATOR.csprojAssemblyReference.cache
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\obj\Debug\TOUR OPERATOR.csproj.CoreCompileInputs.cache
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\obj\Debug\TOUR OPERATOR.exe
+C:\Users\Acer users\Documents\ITIS_VIOLA_MARCHESINI\a.s. 22-23\Informatica\Visuale\TOUR OPERATOR\TOUR OPERATOR\obj\Debug\TOUR OPERATOR.pdb
